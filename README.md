@@ -6,7 +6,6 @@ I have experience in the following programming languages:
 - C/C++
 - Java
 - Mathematica
-- CUDA
 
 ## Research Project
 I am currently working on a research project developing techniques to estimate parameter distributions for ODE systems of disesase spread utilizing Bayesian methods and neural networks.
