@@ -1,4 +1,4 @@
-I am @kearp03, a university student getting my Bachelor's of Science in Mathematics and Computer Science. Please visit my repository MyResume to view my resume.
+I am @kearp03, a university student getting my Bachelor's of Science in Mathematics and Computer Science. Please visit my repository [MyResume](https://github.com/kearp03/MyResume) to view my resume.
 
 ## Programming Languages
 I have experience in the following programming languages:
