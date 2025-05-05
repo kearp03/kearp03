@@ -4,6 +4,7 @@ I am @kearp03, a university student getting my Bachelor's of Science in Mathemat
 I have experience in the following programming languages:
 - Python
 - C/C++
+- CUDA
 - Java
 - Mathematica
 
